@@ -16,6 +16,9 @@ Devpost is a platform that helps software engineers participate in software comp
 
 Go to devpost.com. Click sign up on upper right corner
 
+#### Do not forgot to tell all your teammates to sign up too!
+
+
 ![image of devpost frontpage](https://user-images.githubusercontent.com/33505320/36137731-67e5776e-104b-11e8-8ab8-ff78b7ab1758.png)
 <br/>
  
@@ -49,6 +52,8 @@ Fill in project name.
 <img width="650" alt="screen shot 2018-02-12 at 11 34 12 pm" src="https://user-images.githubusercontent.com/33505320/36138379-1a005b9c-104e-11e8-8312-a7fe1a8e98b9.png">
 
 Fill out the description. This description will be the first impression that your project gives to the judges. Make sure you make it FABULOUS. 
+
+#### Make sure you invite your friend using email in this description so they get credits for the work as well.
 
 ![image of description](https://user-images.githubusercontent.com/33505320/36138383-1d2b5b64-104e-11e8-8c02-18622d12c2cf.png)
 

@@ -49,6 +49,8 @@ Click "Add a new project".
 
 Fill in project name. 
 
+# Make sure you include your table number in the title!!!!
+
 <img width="650" alt="screen shot 2018-02-12 at 11 34 12 pm" src="https://user-images.githubusercontent.com/33505320/36138379-1a005b9c-104e-11e8-8312-a7fe1a8e98b9.png">
 
 Fill out the description. This description will be the first impression that your project gives to the judges. Make sure you make it FABULOUS. 
